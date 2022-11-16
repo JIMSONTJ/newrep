@@ -1,0 +1,55 @@
+
+.dive{
+margin: 0 auto;
+font-size: 25px;
+}
+.br{
+    float:left;
+    
+}
+
+.black
+{
+    background-color: black;
+    width:350px;
+    padding-left: 100px;
+    margin-left: 160px;
+    height: 380px;
+    float: right;
+    margin-right: 35px;
+    padding:2px;
+}
+h4{
+    color:white;
+    font-size: small;
+}
+h1.new{
+    color:rgb(250, 201, 110)
+}
+.new1{
+    font-size: small;
+    color:white;
+}
+.new3{
+    color:rgb(250, 201, 110);
+    font-size: small;
+}
+hr{
+    color:silver;
+}
+.bri{
+    font-size: 45px;
+    
+
+}
+.fir{
+    float:left;
+    margin:0 px;
+}
+.thir{
+    float:right;
+    font-size: 20px;
+}
+.sec{
+    float:left;
+}
